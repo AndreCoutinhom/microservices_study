@@ -1,5 +1,7 @@
 # Monolito por padrão
 
+Com uma aplicação já funcional, é muito mais fácil identificar os domínios que precisam ser separados e o que não é tão crítico, além de termos mais confiança nas implementações das regras.
+
 ## Strangler Pattern
 
 Um padrão em que o sistema monolítico é transformado aos poucos em uma arquitetura de microsserviços.

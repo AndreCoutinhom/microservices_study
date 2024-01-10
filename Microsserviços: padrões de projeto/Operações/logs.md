@@ -1,6 +1,6 @@
 # Lidando com Logs
 
-Logs estão para a saúde do sistema assim como exames estão para nossa saúde física. Através de logs podemos identificar informações muito valiosas sobre nossa aplicação.
+São registros oficiais de eventos formatados no banco de dados.
 
 * Formatos de log DEVEM ser compartilhados entre todos os serviços;
 * Uma taxonomia comum deve ser compartilhada;

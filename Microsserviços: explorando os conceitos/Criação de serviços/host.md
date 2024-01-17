@@ -17,4 +17,8 @@
 * Mais leve;
 * Interativo facilmente com sistemas de cloud.
 
+## Containers VS. VMs
+
+Containers conseguem compartilhar recursos com o sistema operacional host, enquanto cada máquina virtual é um novo sistema operacional. Isso exige muito menos recursos.
+
 ---

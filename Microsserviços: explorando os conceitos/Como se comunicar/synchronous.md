@@ -1,6 +1,6 @@
 # Comunicação Síncrona
 
-Cenário em que se realizam "chamadas" e se espera por suas respostas.
+Cenário em que se realizam "chamadas" e se espera por suas respostas de forma direta e imediata.
 
 ## Formas de se fazer
 

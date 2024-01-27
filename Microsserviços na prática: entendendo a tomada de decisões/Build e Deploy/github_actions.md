@@ -8,4 +8,10 @@ Toda e qualquer ação do GitHub Actions deve seguir a ordenação de pastas `re
 
 ![image](https://github.com/AndreCoutinhom/microservices_study/assets/91290799/a450c52f-9e12-45ee-8a15-6c0460502cff)
 
+Existem actions para deploy, build, programação em diferentes linguagens, etc. No geral, as actions criarão sistemas automatizados para o fluxo de trabalho dos projetos.
+
+A partir da definição das ações, o próprio GitHub irá notificar a existência de quebras de padrões, falhas e erros. No exemplo abaixo a action de PHPCS notou 4 erros de sintaxe na linha 11 do código.
+
+![image](https://github.com/AndreCoutinhom/microservices_study/assets/91290799/199b4b9e-b19e-4703-b0e7-321323ac499d)
+
 ---

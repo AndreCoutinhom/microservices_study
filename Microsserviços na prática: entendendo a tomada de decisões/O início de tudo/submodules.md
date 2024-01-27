@@ -8,4 +8,8 @@ Submódulos são como ponteiros para um commit.
 
 Cada equipe de software trabalharia em diferentes repositórios, e todas as atualizações seriam registradas no repositório central.
 
+## Material de apoio
+
+[Atlassian | Git Submodule](https://www.atlassian.com/git/tutorials/git-submodule)
+
 ---

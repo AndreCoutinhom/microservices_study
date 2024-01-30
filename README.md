@@ -59,6 +59,7 @@ Microsserviços
 ---
 
 ## [Microsserviços com .NET Core: Comunicação Entre Serviços](https://www.alura.com.br/artigos/microservicos-com-dotnetcore-comunicacao-entre-servicos?_gl=1*1prmn3g*_ga*ODM1Nzk2OTUyLjE2OTgzNDc1Mjk.*_ga_1EPWSW3PCS*MTcwMzM3NTEyNC4xMTIuMS4xNzAzMzgxOTU1LjAuMC4w*_fplc*RXdsRmc2RVRlN29pemtob093djZMY2JBMXBTbUgzQlZnb05XQ2M2M1VJTTAlMkJBVWJxWTRLTWgyM1dvNjh1MHNxVWdyQ0NUUEU2bHclMkZaZU14NmNnNFVqb29mNVBzanIlMkJzQ0F2TU9ENmF5U3BrOUVxeEdDckJoS25hSlpvblNBJTNEJTNE) 📕
+![image](https://github.com/AndreCoutinhom/microservices_study/assets/91290799/9bb9efdd-92bc-4690-bce1-1b724299872f)
 
 ---
 
